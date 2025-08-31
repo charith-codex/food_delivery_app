@@ -1,4 +1,5 @@
-# Food Delivery Website - MERN Stack
+# Food Delivery App - MERN Stack
+<img width="1920" height="1080" alt="Screenshot (163)" src="https://github.com/user-attachments/assets/fff3fc9d-6d64-44a8-b65e-2bfe23cb7031" />
 
 Welcome to the **Food Delivery Website** repository! This project is a full-stack web application built using the MERN stack (MongoDB, Express.js, React.js, and Node.js). It allows users to browse through various foods, place orders, and track their order status in real-time.
 
